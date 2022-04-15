@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv>
-<channel id="TVM"><display-name>TVM</display-name><icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a00000170e2a3ef22bf7cfa4ff11e8405de/170x100"/><url>https://www.tvmi.mt/mt/tvmi/skeda/</url></channel>
+<channel id="TVM"><display-name>TVM</display-name><icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a00000170e2a3ef22bf7cfa4ff11e8405de/170x100"/><url>https://www.tvmi.mt</url></channel>
 <channel id="AlmatyTV.kz"><display-name>Almaty TV</display-name><icon src="https://i.imgur.com/GXlYCXz.jpg"/><url>https://tv.yandex.ru</url></channel>
 <channel id="AtamekenBusiness.kz"><display-name>Atameken Business</display-name><icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a000001662eb7cce159eda2661b206fb448/z"/><url>https://tv.yandex.ru</url></channel>
 <channel id="ChannelOneEurasia.kz"><display-name>Perviy kanal Evrasia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/LOGO_%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F.png/600px-LOGO_%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F.png"/><url>https://tv.yandex.ru</url></channel>
